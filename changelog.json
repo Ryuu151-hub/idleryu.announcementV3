@@ -1,7 +1,8 @@
+"enabled": true,
 {
   "versions": [
     {
-      "version": "v4",
+      "version": "v4.5",
       "date": "2026-07-23",
       "changes": [
         "Bug fixes and improvements"
