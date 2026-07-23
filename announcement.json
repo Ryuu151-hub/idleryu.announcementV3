@@ -1,15 +1,21 @@
 {
   "enabled": true,
   "id": "update-required-v4",
-  "type": "update_required",
-  "badge": "Update Required",
-  "headline": "Extension Is Outdated",
-  "subtext": "Some features may stop working until you update to the latest version.",
-  "versionFrom": "v3",
-  "versionTo": "v4",
+  "type": "announcement",
+  "badge": "Announcement",
+  "headline": "Welcome to 1dleryu X TikTok v4.5",
+  "subtext": "Thank you for using the extension. Please update whenever a new version becomes available.",
+  "versionFrom": "4.0",
+  "versionTo": "4.9",
   "showChangelog": true,
+  "changelog": [
+    "Improved upload stability",
+    "Performance improvements",
+    "Bug fixes",
+    "New integrity checks"
+  ],
   "cta": {
-    "label": "Download Update",
+    "label": "Join Telegram",
     "url": "https://t.me/loverielle76"
   },
   "footnote": "IDLERYU • STUDIO"
