@@ -7,7 +7,7 @@
   "subtext": "Some features may stop working until you update to the latest version.",
   "versionFrom": "v3",
   "versionTo": "v4",
-  "showChangelog": false,
+  "showChangelog": true,
   "cta": {
     "label": "Download Update",
     "url": "https://t.me/loverielle76"
