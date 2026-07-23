@@ -2,13 +2,17 @@
   "versions": [
     {
       "version": "v4",
-      "date": "",
-      "changes": []
+      "date": "2026-07-23",
+      "changes": [
+        "Bug fixes and improvements"
+      ]
     },
     {
       "version": "v3",
       "date": "",
-      "changes": []
+      "changes": [
+        "Bug fixes and improvements"
+      ]
     }
   ]
 }
