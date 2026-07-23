@@ -1,7 +1,7 @@
 {
-  "extension": "1dleryu X TikTok",
-  "latestVersion": "v4",
-  "previousVersion": "v3",
-  "minimumRequiredVersion": "v4",
-  "forceUpdate": true
+  "latestVersion": "4.5",
+  "minimumVersion": "4.0",
+  "forceUpdate": false,
+  "maintenance": false,
+  "blacklist": []
 }
