@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "id": "update-required-v4",
   "type": "announcement",
   "badge": "Announcement",
