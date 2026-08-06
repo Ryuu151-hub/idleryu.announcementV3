@@ -1,22 +1,14 @@
 {
-  "enabled": false,
-  "id": "update-required-v4",
-  "type": "announcement",
-  "badge": "Announcement",
-  "headline": "Welcome to 1dleryu X TikTok v4.5",
-  "subtext": "Thank you for using the extension. Please update whenever a new version becomes available.",
-  "versionFrom": "4.0",
-  "versionTo": "4.9",
-  "showChangelog": true,
-  "changelog": [
-    "Improved upload stability",
-    "Performance improvements",
-    "Bug fixes",
-    "New integrity checks"
-  ],
-  "cta": {
-    "label": "Join Telegram",
-    "url": "https://t.me/loverielle76"
-  },
-  "footnote": "IDLERYU • STUDIO"
+  "enabled": true,
+  "id": "maintenance-20260806",
+  "type": "maintenance",
+  "headline": "🔧 Extension Under Maintenance",
+  "subtext": "The extension is temporarily unavailable while we perform maintenance and improvements. Please check back later. Thank you for your patience.",
+  "buttonText": "OK",
+  "dismissible": false,
+  "theme": {
+    "background": "#111827",
+    "accent": "#F59E0B",
+    "text": "#FFFFFF"
+  }
 }
