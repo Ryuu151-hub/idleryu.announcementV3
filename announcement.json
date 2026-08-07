@@ -5,8 +5,8 @@
   "badge": "Announcement",
   "headline": "Welcome to 1dleryu X TikTok v4.5",
   "subtext": "Thank you for using the extension. Please update whenever a new version becomes available.",
-  "versionFrom": "4.0",
-  "versionTo": "4.9",
+  "versionFrom": "4.5",
+  "versionTo": "4.6",
   "showChangelog": true,
   "changelog": [
     "Improved upload stability",
