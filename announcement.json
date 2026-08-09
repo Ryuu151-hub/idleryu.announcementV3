@@ -1,12 +1,12 @@
 {
   "enabled": true,
-  "id": "update-required-v4-7",
+  "id": "update-required-v4-6",
   "type": "update_required",
   "badge": "Update Required",
-  "headline": "1dleryu X TikTok v4.7 is required",
+  "headline": "1dleryu X TikTok v4.6 is required",
   "subtext": "Please update to keep using the extension. This version includes stability fixes and is required to continue.",
-  "versionFrom": "4.6",
-  "versionTo": "4.7",
+  "versionFrom": "4.5",
+  "versionTo": "4.6",
   "showChangelog": false,
   "changelog": [
     "Improved upload stability",
