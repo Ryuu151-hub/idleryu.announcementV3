@@ -5,8 +5,8 @@
   "badge": "Update Required",
   "headline": "1dleryu X TikTok v5.0 is required",
   "subtext": "Please update to keep using the extension. This version includes stability fixes and is required to continue.",
-  "versionFrom": "4.9",
-  "versionTo": "5.0",
+  "versionFrom": "5.0",
+  "versionTo": "5.1",
   "showChangelog": true,
   "changelog": [
     "Improved upload stability",
