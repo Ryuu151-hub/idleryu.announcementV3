@@ -1,12 +1,12 @@
 {
   "enabled": true,
-  "id": "update-required-v5.1",
-  "type": "update_required",
-  "badge": "Update Required",
-  "headline": "1dleryu X TikTok v5.0 is required",
-  "subtext": "Please update to keep using the extension. This version includes stability fixes and is required to continue.",
-  "versionFrom": "5.0",
-  "versionTo": "5.1",
+  "id": "Extension Server Down",
+  "type": "Server Down",
+  "badge": "Server Down",
+  "headline": "1dleryu X TikTok Server is Down",
+  "subtext": "The browser extension is currently down/unavailable. Please use my website version for now..",
+  "versionFrom": "",
+  "versionTo": "",
   "showChangelog": true,
   "changelog": [
     "Improved upload stability",
@@ -15,8 +15,8 @@
     "Fixed sound isn't available/sound missing"
   ],
   "cta": {
-    "label": "Join Telegram",
-    "url": "https://t.me/idleryuXtiktok"
+    "label": "Website",
+    "url": "https://1dleryu.vercel.app"
   },
   "footnote": "IDLERYU • STUDIO"
 }
