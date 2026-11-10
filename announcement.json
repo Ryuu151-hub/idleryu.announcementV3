@@ -1,9 +1,9 @@
 {
-  "enabled": false,
-  "id": "Update-Required-v5.1",
-  "type": "Update Required",
-  "badge": "Update Required",
-  "headline": "1dleryu X TikTok is Required v5.1",
+  "enabled": true,
+  "id": "Update-Required-v",
+  "type": "Server Down",
+  "badge": "Server Down",
+  "headline": "1dleryu X TikTok is Required v",
   "subtext": "Please update to keep using the extension. This version includes stability fixes and is required to continue..",
   "versionFrom": "5.0",
   "versionTo": "5.1",
@@ -15,8 +15,8 @@
     "Fixed sound isn't available/sound missing"
   ],
   "cta": {
-    "label": "Download",
-    "url": "https://t.me/idleryuXtiktok"
+    "label": "Website",
+    "url": "https://1dleryu.vercel.app"
   },
   "footnote": "IDLERYU • STUDIO"
 }
