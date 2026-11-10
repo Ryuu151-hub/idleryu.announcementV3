@@ -5,8 +5,8 @@
   "badge": "Update Required",
   "headline": "1dleryu X TikTok is Required v5.1",
   "subtext": "Please update to keep using the extension. This version includes stability fixes and is required to continue..",
-  "versionFrom": "5.0",
-  "versionTo": "5.1",
+  "versionFrom": "4.9",
+  "versionTo": "5.0",
   "showChangelog": true,
   "changelog": [
     "Improved upload stability",
@@ -15,8 +15,8 @@
     "Fixed sound isn't available/sound missing"
   ],
   "cta": {
-    "label": "Website",
-    "url": "https://1dleryu.vercel.app"
+    "label": "Download",
+    "url": "https://t.me/idleryuXtiktok"
   },
   "footnote": "IDLERYU • STUDIO"
 }
