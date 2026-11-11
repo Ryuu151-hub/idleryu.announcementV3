@@ -3,5 +3,5 @@
   "latestVersion": "5.3",
   "previousVersion": "5.0",
   "minimumRequiredVersion": "5.0",
-  "forceUpdate": true
+  "forceUpdate": false
 }
