@@ -5,8 +5,8 @@
   "badge": "Server Down",
   "headline": "1dleryu X TikTok is Required v",
   "subtext": "Please update to keep using the extension. This version includes stability fixes and is required to continue..",
-  "versionFrom": "5.0",
-  "versionTo": "5.1",
+  "versionFrom": "5.2",
+  "versionTo": "5.3",
   "showChangelog": true,
   "changelog": [
     "Improved upload stability",
